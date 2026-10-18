@@ -1,4 +1,5 @@
-# Hi, I'm cyd0x 👋
+# Hi, I'm cydox 👋
+
 
 > Cybersecurity student → aspiring penetration tester
 
